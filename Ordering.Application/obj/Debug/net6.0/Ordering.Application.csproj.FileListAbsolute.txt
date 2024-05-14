@@ -1,0 +1,15 @@
+D:\Work\Hermetyc\CSharpMicroservices-main\src\CSharpMicroServices\Ordering.Application\bin\Debug\net6.0\Ordering.Application.deps.json
+D:\Work\Hermetyc\CSharpMicroservices-main\src\CSharpMicroServices\Ordering.Application\bin\Debug\net6.0\Ordering.Application.dll
+D:\Work\Hermetyc\CSharpMicroservices-main\src\CSharpMicroServices\Ordering.Application\bin\Debug\net6.0\Ordering.Application.pdb
+D:\Work\Hermetyc\CSharpMicroservices-main\src\CSharpMicroServices\Ordering.Application\bin\Debug\net6.0\Ordering.Domain.dll
+D:\Work\Hermetyc\CSharpMicroservices-main\src\CSharpMicroServices\Ordering.Application\bin\Debug\net6.0\Ordering.Domain.pdb
+D:\Work\Hermetyc\CSharpMicroservices-main\src\CSharpMicroServices\Ordering.Application\obj\Debug\net6.0\Ordering.Application.csproj.AssemblyReference.cache
+D:\Work\Hermetyc\CSharpMicroservices-main\src\CSharpMicroServices\Ordering.Application\obj\Debug\net6.0\Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Hermetyc\CSharpMicroservices-main\src\CSharpMicroServices\Ordering.Application\obj\Debug\net6.0\Ordering.Application.AssemblyInfoInputs.cache
+D:\Work\Hermetyc\CSharpMicroservices-main\src\CSharpMicroServices\Ordering.Application\obj\Debug\net6.0\Ordering.Application.AssemblyInfo.cs
+D:\Work\Hermetyc\CSharpMicroservices-main\src\CSharpMicroServices\Ordering.Application\obj\Debug\net6.0\Ordering.Application.csproj.CoreCompileInputs.cache
+D:\Work\Hermetyc\CSharpMicroservices-main\src\CSharpMicroServices\Ordering.Application\obj\Debug\net6.0\Ordering.50CBBEA9.Up2Date
+D:\Work\Hermetyc\CSharpMicroservices-main\src\CSharpMicroServices\Ordering.Application\obj\Debug\net6.0\Ordering.Application.dll
+D:\Work\Hermetyc\CSharpMicroservices-main\src\CSharpMicroServices\Ordering.Application\obj\Debug\net6.0\refint\Ordering.Application.dll
+D:\Work\Hermetyc\CSharpMicroservices-main\src\CSharpMicroServices\Ordering.Application\obj\Debug\net6.0\Ordering.Application.pdb
+D:\Work\Hermetyc\CSharpMicroservices-main\src\CSharpMicroServices\Ordering.Application\obj\Debug\net6.0\ref\Ordering.Application.dll
